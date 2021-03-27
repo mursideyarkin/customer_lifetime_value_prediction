@@ -11,6 +11,6 @@ Customer lifetime value can be defined as the **present value of a customer** fo
 
 In this notebook, I'll try to apply a BTYD model on an online retail dataset to make a 1-year CLTV prediction.
 
-## Data set:
+## Dataset:
 
-online_retail_II.xlsx: The data set includes the sales of a UK-based online store between 01/12/2009 - 09/12/2011. The product catalog of this company is mostly souvenirs. It can also be considered as promotional products.
+online_retail_II.xlsx: The dataset includes the sales of a UK-based online store between 01/12/2009 - 09/12/2011. The product catalog of this company is mostly souvenirs. It can also be considered as promotional products.
